@@ -1,0 +1,231 @@
+---
+time: 1469223890
+inventory:
+  "/home/index.html":
+    md5: e0bd59f2d4d553f8a23b5aa66d4e3c64
+    time: 1469223861
+  "/index.html":
+    md5: e0bd59f2d4d553f8a23b5aa66d4e3c64
+    time: 1469223861
+  "/online-training/index.html":
+    md5: a8b0ca72465c950c988118795fbbcc3b
+    time: 1469223861
+  "/instructor-led-training/index.html":
+    md5: 02f8deda569dbbd5a6531a4d75d8cb0b
+    time: 1469223862
+  "/consulting-services/index.html":
+    md5: 420b03421cbb53c7e1b4c656ec080b3d
+    time: 1469223862
+  "/courses/index.html":
+    md5: 2be88604f4838881e4d44c7594ff5dcd
+    time: 1469223862
+  "/about/index.html":
+    md5: 5c2b4895660dae221e783361debf7937
+    time: 1469223862
+  "/thanks/index.html":
+    md5: bf8e8ed82d91b10e69d56b8faa8cd09f
+    time: 1469223862
+  "/section-styles/index.html":
+    md5: d1fd7837ad22eeae6dcfd297d38cc582
+    time: 1469223862
+  "/privacy-policy/index.html":
+    md5: 8b8e565c94e1699bbf3fed0ac330d5db
+    time: 1469223862
+  "/terms-and-conditions/index.html":
+    md5: 192edaeb4999b336ecfde230941a18b0
+    time: 1469223862
+  "/home/services/index.html":
+    md5: 841e3bc3dad920792b5bbe7e8a85ad7d
+    time: 1469223862
+  "/home/who-we-serve/index.html":
+    md5: a215d0de9a0d7a312d8a872ce5f2b9d0
+    time: 1469223862
+  "/home/call-to-action/index.html":
+    md5: 81fb38861fc04f77170e5543433628d5
+    time: 1469223862
+  "/home/services/online-training/index.html":
+    md5: 59e838829559ba20e0555c066edbbea1
+    time: 1469223862
+  "/home/services/instructor-lead-training/index.html":
+    md5: b409f5c6ed6d11f94853ba97c7f443e1
+    time: 1469223862
+  "/home/services/consulting-services/index.html":
+    md5: 1c5200520a67d041ab797d4b65471b6e
+    time: 1469223862
+  "/about/our-customers/index.html":
+    md5: c4463314434e96037cd96d70ab5a5319
+    time: 1469223862
+  "/about/contact/index.html":
+    md5: a7dc5b5a9d0988f08d641a6998a41e1e
+    time: 1469223862
+  "/section-styles/section-style-1/index.html":
+    md5: 8677c75f74780f400555c30a227064c7
+    time: 1469223863
+  "/section-styles/section-style-2/index.html":
+    md5: 9238e03e5eac42a220f00d605fd90d81
+    time: 1469223863
+  "/section-styles/section-style-3/index.html":
+    md5: 5edb49055693d21df094d78c0b328775
+    time: 1469223863
+  "/courses/sample-course/index.html":
+    md5: 20ccd14e3a7733987fac60dedf5ef20d
+    time: 1469223863
+  "/courses/cisco-aci-fundamentals-for-network-engineers-agenda/index.html":
+    md5: 669800806991154ffea62502ef5c1636
+    time: 1469223863
+  "/courses/cisco-aci-advanced-deployment-workshop-agenda/index.html":
+    md5: 66b0ae182aaba7204a6f6c32cf9822df
+    time: 1469223863
+  "/courses/designing-and-deploying-vxlan-with-evpn-on-cisco-nexus-9000-agenda/index.html":
+    md5: 66e49a75f716fd57087ba6150598bf6a
+    time: 1469223863
+  "/courses/devops-and-programmability-for-cisco-aci-agenda/index.html":
+    md5: 5cdaa0731873f4218c9c0cd78dff1af5
+    time: 1469223863
+  "/courses/devops-and-programmability-for-cisco-nexus-9000-nxos-agenda/index.html":
+    md5: 054bf39bd5297150fe13f770a82493cb
+    time: 1469223863
+  "/courses/introduction-to-openstack-for-network-engineers-agenda/index.html":
+    md5: d449a473c9e44de19cc0acf38e8c6d65
+    time: 1469223863
+  "/courses/aci-fe-sample-only-page/index.html":
+    md5: b15078eb5595391156a443620c8521a7
+    time: 1469223863
+  "/CNAME":
+    md5: b59e8889a0cee55a8a8008c0b3eb83c9
+    time: 1469223863
+  "/sitemap.xml":
+    md5: 6713a6b6b8d22652b7b30b866375c104
+    time: 1469223863
+  "/feed.xml":
+    md5: f5580a4e03b958b6991d86e006abfe86
+    time: 1469223864
+  "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
+    md5: 82dbfde6a5bad25be3f530e6102de9e6
+    time: 1469223864
+  "/assets/6339606.mp4":
+    md5: 488a81675d798c6dc6ec9a0271bee91d
+    time: 1469223864
+  "/assets/Lumos_web.png":
+    md5: 4a24ecd58df91e0c059c1693eb7dc0aa
+    time: 1469223864
+  "/assets/55e20ccd69702d177a0003a7.jpg":
+    md5: 13c4147484a87d12c2e8d4dc9717471e
+    time: 1469223864
+  "/assets/who-we-serve-bg.jpg":
+    md5: f7d53555562dcbaacf3137f10a08177d
+    time: 1469223864
+  "/assets/fonts/fontawesome-webfont.eot":
+    md5: 32400f4e08932a94d8bfd2422702c446
+    time: 1469223864
+  "/assets/fonts/fontawesome-webfont.svg":
+    md5: f775f9cca88e21d45bebe185b27c0e5b
+    time: 1469223864
+  "/assets/fonts/fontawesome-webfont.ttf":
+    md5: a3de2170e4e9df77161ea5d3f31b2668
+    time: 1469223865
+  "/assets/fonts/fontawesome-webfont.woff":
+    md5: a35720c2fed2c7f043bc7e4ffb45e073
+    time: 1469223865
+  "/assets/fonts/fontawesome-webfont.woff2":
+    md5: db812d8a70a4e88e888744c1c9a27e89
+    time: 1469223865
+  "/assets/fonts/FontAwesome.otf":
+    md5: 87d8ca3ddc57e7d2da6226e480f90457
+    time: 1469223865
+  "/assets/images/bigvideo.png":
+    md5: e1048c9b28f9e3b294d5b58f8101aec0
+    time: 1469223865
+  "/assets/images/favicon128.png":
+    md5: 5cbbec767beec27656db1570d39800aa
+    time: 1469223865
+  "/assets/images/favicon16.png":
+    md5: 5c7058b5b53966c0246cf26de91ad6b8
+    time: 1469223865
+  "/assets/images/favicon256.png":
+    md5: 8be6441c13dd3be67141e9bb071886d5
+    time: 1469223865
+  "/assets/images/favicon32.png":
+    md5: ef7119dc30c1a43698cf4e8c3e567f9e
+    time: 1469223865
+  "/assets/images/favicon48.png":
+    md5: 39d39379a45208f885832912f732ec4b
+    time: 1469223865
+  "/assets/images/favicon64.png":
+    md5: e47b7494d37796f384e61aa6fb8592c5
+    time: 1469223865
+  "/assets/images/header-home.jpg":
+    md5: 9469eec0907ef27d0e4f6de18941f358
+    time: 1469223866
+  "/assets/images/logo-dark.png":
+    md5: f1bb9be4b03f35caec32aa3dff648ad6
+    time: 1469223866
+  "/assets/images/logo-dark@2x.png":
+    md5: a438c82d453c7b4dde09ea705c6e0d14
+    time: 1469223866
+  "/assets/images/logo-light.png":
+    md5: dc0903dcdbceda470c2eeed2f214ab21
+    time: 1469223866
+  "/assets/images/logo-light@2x.png":
+    md5: edcb3e67c2eef4c1b89d36259c0fa285
+    time: 1469223866
+  "/assets/images/logo.png":
+    md5: 83d4358ed75a7676b6f984929e8bc944
+    time: 1469223866
+  "/assets/javascripts/bigvideo.js":
+    md5: 613494b7fd93c3c6f211f33df36541c6
+    time: 1469223866
+  "/assets/stylesheets/sticky-footer-ie.css":
+    md5: fde5643ffbdf7d7d9158b62f905c9005
+    time: 1469223866
+  "/assets/stylesheets/sticky-footer.css":
+    md5: 724abad4ae333e0d2a7c9951ea4bcd8c
+    time: 1469223866
+  "/assets/videos/home-bg-video.mp4":
+    md5: bc4b8cf78172e88019c454c2f564804c
+    time: 1469223867
+  "/assets/illuminating-cloud-medium.jpg":
+    md5: 7a531175441277e6df872203ec88d12c
+    time: 1469223867
+  "/assets/stylesheets/home.css":
+    md5: ac0ac109cdf832928039d62a417f3378
+    time: 1469223867
+  "/assets/ACIDW-Topology-mini.png":
+    md5: 72f4bce89b994393d430ab867cb2c066
+    time: 1469223867
+  "/assets/ACIDW-Topology-large.png":
+    md5: d19ddac15b8eca339418a82bdcabbfe0
+    time: 1469223867
+  "/assets/Blue-Cloud-Download-Big-Web.m4v":
+    md5: 997a6a208d86410bc5ce5577390ecc8d
+    time: 1469223868
+  "/assets/Blue-Cloud-Download-Big-Web.mp4":
+    md5: 997a6a208d86410bc5ce5577390ecc8d
+    time: 1469223869
+  "/assets/N9K-VXLAN-EVPN-Topology-small.png":
+    md5: 1e048aca2848367b34f450a672b5117d
+    time: 1469223869
+  "/assets/videos/home-bg-video-blue.mp4":
+    md5: 997a6a208d86410bc5ce5577390ecc8d
+    time: 1469223869
+  "/assets/images/favicons/favicons":
+    md5: d41d8cd98f00b204e9800998ecf8427e
+    time: 1469223869
+  "/assets/javascripts/public.js":
+    md5: cbee2b6b1b5fb3eecbb80f78fc8337f0
+    time: 1469223870
+  "/assets/fonts/lumos.eot":
+    md5: 569e53c7874efc80c64c27a3ce7d5ea7
+    time: 1469223870
+  "/assets/fonts/lumos.svg":
+    md5: 6a798e9bcc0e5b3847082a3acf7209d3
+    time: 1469223870
+  "/assets/fonts/lumos.ttf":
+    md5: a8234ac2acb0822fad9584b5e57877e5
+    time: 1469223870
+  "/assets/fonts/lumos.woff":
+    md5: bebc9759afe2b6ecadda188c228ca4bf
+    time: 1469223870
+  "/assets/stylesheets/public.css":
+    md5: 439c182c089163c44ec02a08e5b1d5e9
+    time: 1469223870
