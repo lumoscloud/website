@@ -1,114 +1,114 @@
 ---
-time: 1471938511
+time: 1472093771
 inventory:
   "/home/index.html":
-    md5: e0bd59f2d4d553f8a23b5aa66d4e3c64
-    time: 1469223861
+    md5: d0303aa8d33aa6c5b2bb6bb6672690ac
+    time: 1472093755
   "/index.html":
-    md5: e0bd59f2d4d553f8a23b5aa66d4e3c64
-    time: 1469223861
+    md5: d0303aa8d33aa6c5b2bb6bb6672690ac
+    time: 1472093755
   "/online-training/index.html":
-    md5: a8b0ca72465c950c988118795fbbcc3b
-    time: 1469223861
+    md5: b34687eaac67f8c891bd4f0e42bc90b5
+    time: 1472093755
   "/instructor-led-training/index.html":
-    md5: 218b6ecf88c5655349a80f8f5d1c8f9f
-    time: 1471930541
+    md5: 7d5893bd85677370455a3e6bcaad8881
+    time: 1472093755
   "/consulting-services/index.html":
-    md5: 420b03421cbb53c7e1b4c656ec080b3d
-    time: 1469223862
+    md5: 0867b93235a576d59318f037056a8553
+    time: 1472093755
   "/courses/index.html":
-    md5: 2be88604f4838881e4d44c7594ff5dcd
-    time: 1469223862
+    md5: bddc23f0485f4867e32de9013cce043b
+    time: 1472093755
   "/about/index.html":
-    md5: 5c2b4895660dae221e783361debf7937
-    time: 1469223862
+    md5: 4f01cdfdf3718f7903040c7606b22484
+    time: 1472093755
   "/thanks/index.html":
-    md5: bf8e8ed82d91b10e69d56b8faa8cd09f
-    time: 1469223862
+    md5: c5982fdd59795a06a21ddfb7e8f085da
+    time: 1472093755
   "/section-styles/index.html":
-    md5: d1fd7837ad22eeae6dcfd297d38cc582
-    time: 1469223862
+    md5: f3b85af1fd2efa0427b7e51cfcb95d27
+    time: 1472093756
   "/privacy-policy/index.html":
-    md5: 8b8e565c94e1699bbf3fed0ac330d5db
-    time: 1469223862
+    md5: c179de7361cd5e7d16b02758e0479016
+    time: 1472093756
   "/terms-and-conditions/index.html":
-    md5: 192edaeb4999b336ecfde230941a18b0
-    time: 1469223862
+    md5: c56d16d698fe733b9f61e72d26d2c46a
+    time: 1472093756
   "/home/services/index.html":
-    md5: 841e3bc3dad920792b5bbe7e8a85ad7d
-    time: 1469223862
+    md5: 56473da906cd1fbd32396d870d1b8872
+    time: 1472093756
   "/home/who-we-serve/index.html":
-    md5: a215d0de9a0d7a312d8a872ce5f2b9d0
-    time: 1469223862
+    md5: f33edbaebda2de45be33a083e8058ef9
+    time: 1472093756
   "/home/call-to-action/index.html":
-    md5: 81fb38861fc04f77170e5543433628d5
-    time: 1469223862
+    md5: 713ecda5597308b2a0f3970db4f03ea1
+    time: 1472093756
   "/home/services/online-training/index.html":
-    md5: 59e838829559ba20e0555c066edbbea1
-    time: 1469223862
+    md5: b28303c2d45d9ade215dd7410e203a0f
+    time: 1472093756
   "/home/services/instructor-lead-training/index.html":
-    md5: b409f5c6ed6d11f94853ba97c7f443e1
-    time: 1469223862
+    md5: 81659fb7a0404ee9cf735f6585b45ebd
+    time: 1472093756
   "/home/services/consulting-services/index.html":
-    md5: 1c5200520a67d041ab797d4b65471b6e
-    time: 1469223862
+    md5: f13bd2f572d6296490c5a7a020af29ca
+    time: 1472093756
   "/about/our-customers/index.html":
-    md5: c4463314434e96037cd96d70ab5a5319
-    time: 1469223862
+    md5: 6b31ec106cc56034e42b02541d8029d1
+    time: 1472093756
   "/about/contact/index.html":
-    md5: b5a85456bf27fa367be9a8664584f971
-    time: 1471930542
+    md5: 73ec421fc5927e8f88417539106e0b3e
+    time: 1472093756
   "/section-styles/section-style-1/index.html":
-    md5: 8677c75f74780f400555c30a227064c7
-    time: 1469223863
+    md5: aefb4f6aa0251f855079abc02277e1f2
+    time: 1472093756
   "/section-styles/section-style-2/index.html":
-    md5: 9238e03e5eac42a220f00d605fd90d81
-    time: 1469223863
+    md5: 6ca8c95f5974dd22a2611f66bc08b32e
+    time: 1472093756
   "/section-styles/section-style-3/index.html":
-    md5: 5edb49055693d21df094d78c0b328775
-    time: 1469223863
+    md5: 3c73a8daef912a9093a4a57cb6c001cf
+    time: 1472093756
   "/courses/sample-course/index.html":
-    md5: 20ccd14e3a7733987fac60dedf5ef20d
-    time: 1469223863
+    md5: 0dad2d307d00936d68a051d21fd89e9a
+    time: 1472093756
   "/courses/cisco-aci-fundamentals-for-network-engineers-agenda/index.html":
-    md5: eafac0a3b70d1e9002bb7e7bc8916f33
-    time: 1471930542
+    md5: 40ca756f55561aaa840fabc9fb31ad99
+    time: 1472093756
   "/courses/cisco-aci-advanced-deployment-workshop-agenda/index.html":
-    md5: 045bcecec8aaadf15ab929c7100d6ece
-    time: 1471930542
+    md5: 72529c6fab7aa08397bc6e81e5441d0b
+    time: 1472093756
   "/courses/designing-and-deploying-vxlan-with-evpn-on-cisco-nexus-9000-agenda/index.html":
-    md5: a08704115e2b6829ff33b8ffa05e0d10
-    time: 1471938510
+    md5: 714b77fe708be08663bb5e27e20f173d
+    time: 1472093756
   "/courses/devops-and-programmability-for-cisco-aci-agenda/index.html":
-    md5: a0059659bbd986b6d00ffa7159f49f34
-    time: 1471930542
+    md5: 1daf6583b0f1c1c36c3090a644553ab6
+    time: 1472093756
   "/courses/devops-and-programmability-for-cisco-nexus-9000-nxos-agenda/index.html":
-    md5: a2130bd102910c9fedca3b68681cced9
-    time: 1471930542
+    md5: 05e070c06d2985f05e01b7832ffed140
+    time: 1472093756
   "/courses/introduction-to-openstack-for-network-engineers-agenda/index.html":
-    md5: d449a473c9e44de19cc0acf38e8c6d65
-    time: 1469223863
+    md5: a880e40d1ece280e3950457928643ea8
+    time: 1472093756
   "/courses/aci-fe-sample-only-page/index.html":
-    md5: b15078eb5595391156a443620c8521a7
-    time: 1469223863
+    md5: 902253295aa4af0e7292fe0932282892
+    time: 1472093756
   "/courses/3-day-cisco-aci-for-network-engineers/index.html":
-    md5: 709d634058201ac4684582e0b3bc5096
-    time: 1471930542
-  "/courses/3-day-cisco-cloud-center-with-aci-hands-on-training/index.html":
-    md5: 55b2de6483e06bdaea45923ccb13f97f
-    time: 1471930542
+    md5: 6586b7db24681b47a9cbb14b0566d2f9
+    time: 1472093757
+  "/courses/3-day-cisco-cloud-center/index.html":
+    md5: eac799065e4c7b43929208f9816f4622
+    time: 1472093757
   "/courses/class-template-donot-remove/index.html":
-    md5: adfe0c44782e0d9f0f1aaabd5047e612
-    time: 1471930542
+    md5: 03a24d8c986ca5e8e07c22bf9b1a5375
+    time: 1472093757
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: 88f1505bcf60990541cacd8bebdbb70c
-    time: 1471930542
+    md5: 9b46d7321d1142c49fdd8173983eddb5
+    time: 1472093757
   "/feed.xml":
-    md5: 7d44872506baae188ab633261d537491
-    time: 1471938510
+    md5: 6c44bcd17a155a92d731cf0eb48183c3
+    time: 1472093757
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
