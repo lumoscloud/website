@@ -1,5 +1,5 @@
 ---
-time: 1472093771
+time: 1472094286
 inventory:
   "/home/index.html":
     md5: d0303aa8d33aa6c5b2bb6bb6672690ac
@@ -11,8 +11,8 @@ inventory:
     md5: b34687eaac67f8c891bd4f0e42bc90b5
     time: 1472093755
   "/instructor-led-training/index.html":
-    md5: 7d5893bd85677370455a3e6bcaad8881
-    time: 1472093755
+    md5: 5ba6e9c780af7015419869a94396c6e8
+    time: 1472094283
   "/consulting-services/index.html":
     md5: 0867b93235a576d59318f037056a8553
     time: 1472093755
@@ -94,9 +94,9 @@ inventory:
   "/courses/3-day-cisco-aci-for-network-engineers/index.html":
     md5: 6586b7db24681b47a9cbb14b0566d2f9
     time: 1472093757
-  "/courses/3-day-cisco-cloud-center/index.html":
-    md5: eac799065e4c7b43929208f9816f4622
-    time: 1472093757
+  "/courses/3-day-cisco-cloud-center-training/index.html":
+    md5: c32897fef09c923fa0ea6333ea624afe
+    time: 1472094284
   "/courses/class-template-donot-remove/index.html":
     md5: 03a24d8c986ca5e8e07c22bf9b1a5375
     time: 1472093757
@@ -104,11 +104,11 @@ inventory:
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: 9b46d7321d1142c49fdd8173983eddb5
-    time: 1472093757
+    md5: b4ee1308416018e70e600eb34b2ea78b
+    time: 1472094284
   "/feed.xml":
-    md5: 6c44bcd17a155a92d731cf0eb48183c3
-    time: 1472093757
+    md5: 1944025bb94c2d44a4e86516996120f5
+    time: 1472094284
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
