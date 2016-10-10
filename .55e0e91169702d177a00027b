@@ -1,5 +1,5 @@
 ---
-time: 1475169849
+time: 1476084299
 inventory:
   "/home/index.html":
     md5: d0303aa8d33aa6c5b2bb6bb6672690ac
@@ -100,6 +100,9 @@ inventory:
   "/courses/class-template-donot-remove/index.html":
     md5: 03a24d8c986ca5e8e07c22bf9b1a5375
     time: 1475169835
+  "/courses/modernized-data-center-network-with-cisco-9000/index.html":
+    md5: 739e591cfc7de981a0b6b930c14d8701
+    time: 1476084298
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
@@ -107,8 +110,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: e94355a3752a7db3e2dd4982c18a5cae
-    time: 1475169835
+    md5: 153f0f0ff1b1cec02b7b43a7adb81cd9
+    time: 1476084298
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
