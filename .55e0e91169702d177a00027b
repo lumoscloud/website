@@ -1,5 +1,5 @@
 ---
-time: 1476086969
+time: 1476167894
 inventory:
   "/home/index.html":
     md5: d0303aa8d33aa6c5b2bb6bb6672690ac
@@ -97,12 +97,15 @@ inventory:
   "/courses/3-day-cisco-cloud-center-training/index.html":
     md5: 927a5fc0a4d0665e9f2c28bf0110f88c
     time: 1475169834
+  "/courses/1day-mdcn9k/index.html":
+    md5: 371b83ad44d3487793e1afd2a1c890d7
+    time: 1476167892
+  "/courses/2day-mdcn9k/index.html":
+    md5: 412d6b0ed32836e12a3701483da2ae85
+    time: 1476167892
   "/courses/class-template-donot-remove/index.html":
     md5: 03a24d8c986ca5e8e07c22bf9b1a5375
     time: 1475169835
-  "/courses/mdcn9k/index.html":
-    md5: 6c5a5301432c692d490913a5176041fa
-    time: 1476086968
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
@@ -110,8 +113,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: fa75e80b904a0b3deddc930d590e3785
-    time: 1476086968
+    md5: b94ae25cc41c7c41756bf801a0c31ffb
+    time: 1476167892
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
