@@ -1,0 +1,622 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+      <title>2-Day Cisco ACI Test Drive &mdash; Lumos</title>
+    
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/assets/images/favicon16.png" type="image/png" sizes="16x16">
+    <link rel="shortcut icon" href="/assets/images/favicon32.png" type="image/png" sizes="32x32">
+    <link rel="shortcut icon" href="/assets/images/favicon48.png" type="image/png" sizes="48x48">
+    <link rel="shortcut icon" href="/assets/images/favicon64.png" type="image/png" sizes="64x64">
+    <link rel="shortcut icon" href="/assets/images/favicon128.png" type="image/png" sizes="128x128">
+    <link rel="shortcut icon" href="/assets/images/favicon256.png" type="image/png" sizes="256x256">
+    <script src="/assets/javascripts/public.js" type="text/javascript" charset="utf-8"></script>
+    <script src="//vjs.zencdn.net/4.3/video.js"></script>
+    <script src="/assets/javascripts/bigvideo.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox.js/v2.2.0/mapbox.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://api.tiles.mapbox.com/mapbox.js/v2.2.0/mapbox.css">
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/public.css">
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/sticky-footer.css">
+    <!--[if !IE 7]>
+      <link rel="stylesheet" type="text/css" href="/assets/stylesheets/sticky-footer-ie.css">
+    <![endif]-->
+    
+    
+    <!-- Start Visual Website Optimizer Asynchronous Code -->
+<script type='text/javascript'>
+var _vwo_code=(function(){
+var account_id=213534,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script>
+<!-- End Visual Website Optimizer Asynchronous Code -->
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-71595484-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </head>
+  <body>
+    <a id="top"></a>
+    <div id="page" class="page big-slide-push clearfix">
+      <header class="page clearfix">
+        
+          <div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-3">
+      <div id="logo">
+        
+  
+  <a href="/" class="no-underline">
+
+  <img src="/assets/images/logo-dark.png" alt="Lumos" width="180">
+
+
+
+
+      </div>
+      <a href="#big-slide-panel" class="big-slide-link no-underline visible-xs-block">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+    <div class="col-sm-9 hidden-xs">
+      <nav class="text-right" role="navigation">
+  <ul class="list-unstyled list-inline">
+    
+      
+    
+      
+        <li>
+          <a href="/online-training">
+            
+              Online Training
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/instructor-led-training">
+            
+              <span class="hidden-sm">Instructor Led Training</span>
+              <span class="visible-sm-block">ILT</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/consulting-services">
+            
+              <span class="hidden-sm">Consulting Services</span>
+              <span class="visible-sm-block">Consulting</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/about">
+            
+              About
+            
+          </a>
+        </li>
+      
+    
+    <li><a href="https://app.lumoscloud.com/login">LOG IN</a></li>
+  </ul>
+</nav>
+
+    </div>
+  </div>
+</div>
+
+        
+        <div class="header-fixed" data-spy="affix" data-offset-top="20">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3">
+        <div class="logo">
+          
+  <a href="/" class="no-underline">
+
+  <img src="/assets/images/logo-dark.png" alt="Lumos" width="180">
+
+
+        </div>
+        <a href="#big-slide-panel" class="big-slide-link no-underline visible-xs-block">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+      <div class="col-sm-9 hidden-xs">
+        <nav class="text-right" role="navigation">
+  <ul class="list-unstyled list-inline">
+    
+      
+    
+      
+        <li>
+          <a href="/online-training">
+            
+              Online Training
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/instructor-led-training">
+            
+              <span class="hidden-sm">Instructor Led Training</span>
+              <span class="visible-sm-block">ILT</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/consulting-services">
+            
+              <span class="hidden-sm">Consulting Services</span>
+              <span class="visible-sm-block">Consulting</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/about">
+            
+              About
+            
+          </a>
+        </li>
+      
+    
+    <li><a href="https://app.lumoscloud.com/login">LOG IN</a></li>
+  </ul>
+</nav>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+      </header>
+      
+  <a id="content"></a>
+  <div class="course-page content">
+    <div class="section-style section-style-0" id="overview">
+  <div class="container">
+    <div class="row">
+      <h1>2-Day Cisco ACI Test Drive </h1>
+      <hr>
+      <section class="col-xs-12 col-md-10 col-md-offset-1">
+        <h2>Offering Formats</h2>
+        <h4>
+          This course is offered in the following formats:
+        </h4>
+        <ul>
+          <li>Live, Instructor-Led Training (<a href="#schedule">schedule</a>)</li>
+        </ul>
+        <hr>
+        <h2>Course Overview</h2>
+        <p>
+          In this 2-day Cisco ACI Test Drive course, you will become fully adept at deploying, provisioning and maintaining a Cisco® Application Centric Infrastructure (ACI), including the planning, design, and implementation of ACI.
+        </p>
+
+        <p>
+          It is designed for Architects, Systems Engineers and Field Engineers who are selling, implementing and/or managing Cisco ACI. The course dives deep into each of the key concepts behind ACI’s application-centric infrastructure and policy-based architecture. You will spend each day listening to lecture, then configuring most every aspect of the ACI solution, including configuring tenants, application network profiles (ANP), contracts, endpoints, VMM integration and how to connect the ACI Fabric to an external L2 and L3 networks, along with L4-L7 services.  Migration strategies for existing applications to an ACI fabric will be discussed and automation of APIC REST API through scripting (JSON/XML). 
+        </p>
+<p>
+The course will include intense hands-on labs on real physical hardware of all of the key functions of ACI. You will not share with other students during the labs. You will be provided with your own ACI Tenant, Vcenter Server, ESXi Hosts and numerous virtual machines. 
+</p>
+        <h4>
+          Upon completion of the course, students will be familiar with:
+        </h4>
+        <ul>
+          <li>Pre-Deployment Interview/Information gathering process</li>
+          <li>Out of the box setup and configuration of an ACI fabric</li>
+          <li>
+            Scenario driven configuration principals for:
+            <ul>
+              <li>Multi-Tenancy/Tenant Configurations</li>
+              <li>Application Profiles</li>
+              <li>Endpoint Groups</li>
+              <li>Security - Built-in Stateful Firewall, Contracts</li>
+              <li>Virtual Machine Manager (VMM) Integration</li>
+              <li>Connecting the ACI fabric to external L2 and L3 networks</li>
+              <li>Connecting fabric to L4 – L7 services (ASA, F5, etc….)</li>
+            </ul>
+          </li>
+        </ul>
+      </br>
+
+
+        <h4>
+          Course Specifics
+        </h4>
+        <ul>
+          <li>
+            This course has a high degree of labs (40:60 ratio lab:lecture), and is intended to engage and challenge the student into performing the most common but also complex scenarios when migrating to Cisco Application Centric Infrastructure (ACI) Fabric
+          </li>
+          <li>
+            Hands on lab environments.  Each student will have:
+            <ul>
+              <li>Dedicated ACI tenant with 4 ESXi hosts and 9 VM’s</li>
+              <li>Dedicated vCenter Appliance</li>
+              <li>Dedicated L2/L3 outside connections</li>
+            </ul>
+          </li>
+
+          <li>
+            Class size will be restricted to 16 students to facilitate more hands on lab time.
+          </li>
+          <li>
+            <strong>Each student</strong> will have a dedicated Tenant and dedicated ports both on the ACI Leafs and on the external Nexus 5K/6Ks, <strong>dedicated</strong> 4 ESXi servers, vCenter server and VMs.
+          </li>
+          <li>
+            Students <strong>do not share</strong> or “partner-up” to perform tasks. Each student independently performs <strong>all</strong> tasks.
+          </li>
+
+        </ul>
+      </section>
+    </div>
+  </div>
+
+<div class="section-style section-style-3" id="schedule">
+  <div class="container">
+    <div class="row">
+      <h2>Live Instructor Led Training Schedule</h2>
+      <section class="col-xs-12 col-md-10 col-md-offset-1">
+        <p>
+Minimum class size is required for course to be held. Final determination will be made 2 weeks prior to scheduled class. In the event of class cancelation all registered learners will receive email notification of the cancelation and refund of all charges. Refund is limited to only the course registration fees. Lumos is not liable for any other costs that may have been incurred, including, but, not limited to transportation, lodging, VISAs.<br>
+        </p>
+        <table class="table table-striped table-bordered">
+          <col width="550">
+          <col width="75">
+          <col width="75">
+          <col width="150">
+          <thead>
+            <tr>
+              <th class="text-left">US Dates and Locations</th>
+              <th class="text-center">Running</th>
+              <th class="text-center">Price</th>              
+<th class="text-center">Registration</th>
+            </tr>
+          </thead>
+          <tbody>
+           <tr>
+              <td>
+                <strong>24 Jan - 26 Jan</strong>
+                <p>Pleasanton, CA, US</p>
+              </td>
+              <td class="text-center"><i class="fa fa-fw fa-lg icon-color-success icon-check-circle"></i></td>
+              <td class="text-center">$2,400</td>
+              <td class="text-center"><a class="btn btn-action btn-action-primary" href="https://www.eventbrite.com/e/3-day-cisco-aci-for-network-engineering-jan-24th-pleasanton-ca-tickets-30495376492" target="_blank">Register Now</a></td>
+            </tr>
+           <tr>
+              <td>
+                <strong>31 Jan - 2 Feb</strong>
+                <p>Raleigh, NC, US</p>
+              </td>
+              <td class="text-center"><i class="fa fa-fw fa-lg icon-color-success icon-check-circle"></i></td>
+              <td class="text-center">$2,400</td>
+              <td class="text-center"><a class="btn btn-action btn-action-primary" href="https://www.eventbrite.com/e/3-day-cisco-aci-for-network-engineering-jan-31st-raleigh-nc-tickets-30496056526" target="_blank">Register Now</a></td>
+            </tr>
+           <tr>
+              <td>
+                <strong>7 Feb - 9 Feb</strong>
+                <p>Pleasanton, CA, US</p>
+              </td>
+              <td class="text-center"><i class="fa fa-fw fa-lg icon-color-success icon-check-circle"></i></td>
+              <td class="text-center">$2,400</td>
+              <td class="text-center"><a class="btn btn-action btn-action-primary" href="https://www.eventbrite.com/e/3-day-cisco-aci-for-network-engineering-feb-7th-pleasanton-ca-tickets-30495938172" target="_blank">Register Now</a></td>
+            </tr>
+           <tr>
+              <td>
+                <strong>14 Feb - 16 Feb</strong>
+                <p>Raleigh, CA, US</p>
+              </td>
+              <td class="text-center"><i class="fa fa-fw fa-lg icon-color-success icon-check-circle"></i></td>
+              <td class="text-center">$2,400</td>
+              <td class="text-center"><a class="btn btn-action btn-action-primary" href="https://www.eventbrite.com/e/3-day-cisco-aci-for-network-engineering-feb-14th-raleigh-nc-tickets-30496152814" target="_blank">Register Now</a></td>
+            </tr>
+            </tbody>
+        </table>
+        <br />
+        <br />
+
+        <table class="table table-striped table-bordered">
+          <col width="550">
+          <col width="75">
+          <col width="75">
+          <col width="150">
+          <thead>
+            <tr>
+              <th class="text-left">International Dates and Locations</th>
+              <th class="text-center">Running</th>
+              <th class="text-center">Price</th>
+              <th class="text-center">Registration</th>
+            </tr>
+          </thead>
+          <tbody>
+              <td>
+                <strong>More international dates coming soon!</strong>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tbody>
+        </table>
+
+      </section>
+    </div>
+  </div>
+</div>
+
+<div class="section-style section-style-3" id="agenda">
+  <div class="container">
+    <div class="row">
+      <h2>Course Agenda</h2>
+      <section class="col-xs-12 col-md-10 col-md-offset-1">
+        <table class="table table-striped table-bordered">  
+          <col width="150">
+          <col width="600">
+          <thead>
+            <tr>
+              <th colspan="2">Day 1</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>09:00 – 10:00</td>
+              <td><strong>ACI Overview</strong><br>
+Evolution of the modern Data Center. From the traditional 3-Tier architecture to the Spine-Leaf Architecture. Why the industry moving to VxLAN and to the Policy driven Data Center.
+              </td>
+            </tr>
+            <tr>
+              <td>10:00 – 10:15</td>
+              <td class="break">Break</br>
+              </td>
+            </tr>
+            <tr>
+              <td>10:15 – 11:15</td>
+              <td><strong>Cisco’s Application Policy Infrastructure Controller (APIC)</strong></br>
+              How the Cisco APIC provides fabric configuration and Application Network Policy creation and deployment. in addition to providing resiliency, redundancy, scalability and monitoring.
+              </td>
+            </tr>
+          <tr>
+              <td>11:15 – 12:15</td>
+              <td><strong>APIC Fabric Discovery and Configuration</strong></br>
+              Understand how Cisco ACI provides almost zero touch fabric discovery and configuration.
+              </td>
+            </tr>
+            <tr>
+<td>12:15 – 01:15</td>
+              <td class="break">LUNCH</td>
+            </tr>
+            <tr>
+              <td>01:15 – 02:00</td>
+              <td><strong>ACI Polices and Resource Pools</strong><br />
+              How to create and use ACI policies and resource pools. These objects are used to building a scalable switch fabric.
+              </td>
+            </tr>
+            <tr>
+              <td>02:00 – 02:30</td>
+              <td><strong>Lab</strong><br>
+Initial Configuration of ACI Polices and Pools.</td>
+            </tr>
+           <tr>
+              <td>02:30 – 02:45</td>
+              <td class="break">Break</br>
+              </td>
+            </tr>
+            <tr>
+              <td>02:45 – 03:30</td>
+              <td><strong>ACI Fabric Access Polices</strong><br />
+              Configuration of fabric/switch/interface polices/settings. Reusable objects for fabric wide configuration.
+              </td>
+            </tr>
+         <tr>
+              <td>03:30 – 04:00</td>
+              <td><strong>Lab</strong><br>
+Configuring ACI fabric access polices.
+              </td>
+            </tr>
+            <tr>
+              <td>04:00 – 05:00</td>
+              <td><strong>Fabric Operation and Forwarding</strong><br />
+              How does the fabric operate. Go under the covers and see how packets are learned and forwarded inside the fabric. How ACI can connect to bare metal servers or hypervisors running VLAN, VxLAN, NVGRE and forward packets seamlessly between any of these protocols.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table class="table table-striped table-bordered">
+          <col width="150">
+          <col width="600">
+          <thead>
+            <tr>
+              <th colspan="2">Day 2</th>
+            </tr>
+          </thead>
+<tbody>
+            <tr>
+              <td>09:00 – 09:45</td>
+              <td><strong>Application Network Profile creation</strong><br>
+ACI networking foundation, Tenants, VRFs, Bridge Domains, subnets, End Points, End Point groups.
+              </td>
+            </tr>
+ <tr>
+              <td>09:45 – 10:00  </td>
+              <td><strong>Lab</strong><br>
+Create tenants, VRFs, Application Network Profiles, Bridge Domains, subnets.
+              </td>
+            </tr>
+            <tr>
+              <td>10:00 – 10:15</td>
+              <td class="break">Break</br>
+              </td>
+            </tr>
+            <tr>
+              <td>10:15 – 11:00</td>
+              <td><strong>Hypervisor Integration with ACI</strong></br>
+              Virtual Machine Management (VMM) Various methods to integrate industry standard Hypervisors (ESXi, KVM, Hyper-V). Relationship to ACI networking and Hypervisor networking.
+              </td>
+            </tr>
+          <tr>
+              <td>11:00 – 11:45</td>
+              <td><strong>Lab</strong></br>
+Configure VMM and confirm end point learning.
+              </td>
+            </tr>
+   <tr>
+              <td>11:45 – 12:30</td>
+              <td><strong>End Point Group communication</strong></br>
+ACI Filters, Subject and Contracts. Understand relationship between contracts and VRF route leaking.
+              </td>
+            </tr>
+            <tr>
+<td>12:30 – 01:30</td>
+              <td class="break">LUNCH</td>
+            </tr>
+            <tr>
+              <td>01:30 – 02:00</td>
+              <td><strong>Lab</strong><br />
+              Create ACI Contracts and apply them to VMs. Validate End Point Group connectivity using contracts.
+              </td>
+            </tr>
+            <tr>
+              <td>02:00 – 02:30</td>
+              <td><strong>ACI Switches</strong><br>
+ACI portfolio and capabilities.
+</td>
+            </tr>
+         <tr>
+              <td>02:30 – 03:15</td>
+              <td><strong>Connecting to external L3</strong><br>
+Policies and concepts to connect to external L3
+</td>
+            </tr>
+ <tr>
+              <td>03:15 – 03:30</td>
+              <td><strong>Lab</strong><br>
+L3 Connectivity and EPG
+</td>
+            </tr>
+           <tr>
+              <td>03:30 – 03:45</td>
+              <td class="break">Break</br>
+              </td>
+            </tr>
+            <tr>
+              <td>03:45 – 04:30</td>
+              <td><strong>Connecting to external L2</strong><br />
+              Policies and concepts to connect to external L2.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+    </div>
+    <footer class="page big-slide-push clearfix">
+      <div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <ul class="list-inline">
+        <li>&copy; 2016 Lumos Consulting, Inc. All Rights Reserved.</li>
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
+        <li><a href="/about/contact">Contact Us</a></li>
+        <!-- li><a href="/refund-policy">Refund Policy</a></li -->
+      </ul>
+    </div>
+  </div>
+</div>
+
+    </footer>
+    <div id="big-slide-panel" class="mobile-nav big-slide-panel">
+  <nav class="text-right" role="navigation">
+  <ul class="list-unstyled list-inline">
+    
+      
+    
+      
+        <li>
+          <a href="/online-training">
+            
+              Online Training
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/instructor-led-training">
+            
+              <span class="hidden-sm">Instructor Led Training</span>
+              <span class="visible-sm-block">ILT</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/consulting-services">
+            
+              <span class="hidden-sm">Consulting Services</span>
+              <span class="visible-sm-block">Consulting</span>
+            
+          </a>
+        </li>
+      
+    
+      
+        <li>
+          <a href="/about">
+            
+              About
+            
+          </a>
+        </li>
+      
+    
+    <li><a href="https://app.lumoscloud.com/login">LOG IN</a></li>
+  </ul>
+</nav>
+
+</div>
+
+    
+  </body>
+</html>
+

@@ -1,5 +1,5 @@
 ---
-time: 1482268960
+time: 1482269723
 inventory:
   "/home/index.html":
     md5: b34c395153bf8dc95921bcf7db8c8b58
@@ -35,8 +35,8 @@ inventory:
     md5: c56d16d698fe733b9f61e72d26d2c46a
     time: 1475169834
   "/emea/index.html":
-    md5: a87402e6f7ecb85d7304d21de96eed56
-    time: 1482268957
+    md5: 3ce7e0150e0c9c0474854e00e7f8289d
+    time: 1482269716
   "/home/services/index.html":
     md5: 56473da906cd1fbd32396d870d1b8872
     time: 1475169834
@@ -112,6 +112,9 @@ inventory:
   "/courses/class-template-donot-remove/index.html":
     md5: 03a24d8c986ca5e8e07c22bf9b1a5375
     time: 1475169835
+  "/courses/2-day-cisco-aci-test-drive/index.html":
+    md5: bb54706661ae805cbf8e9ae3bd7e631c
+    time: 1482269717
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
@@ -119,8 +122,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: 7e2db24f27f529981a8797bb45e4cf96
-    time: 1482268958
+    md5: 3adaad811e220183103899dd037c8209
+    time: 1482269717
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
