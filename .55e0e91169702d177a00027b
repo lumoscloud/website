@@ -1,5 +1,5 @@
 ---
-time: 1476292746
+time: 1482258454
 inventory:
   "/home/index.html":
     md5: d0303aa8d33aa6c5b2bb6bb6672690ac
@@ -92,8 +92,8 @@ inventory:
     md5: 902253295aa4af0e7292fe0932282892
     time: 1475169834
   "/courses/3-day-cisco-aci-for-network-engineers/index.html":
-    md5: a75260026156bca34f6d1f9ab186ad86
-    time: 1476292396
+    md5: 946dd22c0efbea9181af07b9338196b7
+    time: 1482258449
   "/courses/3-day-cisco-cloud-center-training/index.html":
     md5: 94ecbf867e3bbb6742df1da397965f04
     time: 1476292744
@@ -113,8 +113,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: d043caf2988ea502e9066d4b026c1ce0
-    time: 1476292744
+    md5: d45c95162c807c04c60f0fb4e8b78636
+    time: 1482258449
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
