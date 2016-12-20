@@ -1,5 +1,5 @@
 ---
-time: 1482269723
+time: 1482269758
 inventory:
   "/home/index.html":
     md5: b34c395153bf8dc95921bcf7db8c8b58
@@ -35,8 +35,8 @@ inventory:
     md5: c56d16d698fe733b9f61e72d26d2c46a
     time: 1475169834
   "/emea/index.html":
-    md5: 3ce7e0150e0c9c0474854e00e7f8289d
-    time: 1482269716
+    md5: b4e1b5bc136a3bf14bd311e17057b0c8
+    time: 1482269756
   "/home/services/index.html":
     md5: 56473da906cd1fbd32396d870d1b8872
     time: 1475169834
@@ -122,8 +122,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: 3adaad811e220183103899dd037c8209
-    time: 1482269717
+    md5: 448a8634ccf019024866fa6a85e1d30a
+    time: 1482269757
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
