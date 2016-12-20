@@ -1,5 +1,5 @@
 ---
-time: 1482269758
+time: 1482270506
 inventory:
   "/home/index.html":
     md5: b34c395153bf8dc95921bcf7db8c8b58
@@ -113,8 +113,8 @@ inventory:
     md5: 03a24d8c986ca5e8e07c22bf9b1a5375
     time: 1475169835
   "/courses/2-day-cisco-aci-test-drive/index.html":
-    md5: bb54706661ae805cbf8e9ae3bd7e631c
-    time: 1482269717
+    md5: fb6686dd54c9b451821c2f60cecc901e
+    time: 1482270503
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
@@ -122,8 +122,8 @@ inventory:
     md5: b4ee1308416018e70e600eb34b2ea78b
     time: 1475169835
   "/feed.xml":
-    md5: 448a8634ccf019024866fa6a85e1d30a
-    time: 1482269757
+    md5: 17dfbf7915f3ab513b1fc890ae5ce0fa
+    time: 1482270503
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
