@@ -1,5 +1,5 @@
 ---
-time: 1484001014
+time: 1484002187
 inventory:
   "/home/index.html":
     md5: b34c395153bf8dc95921bcf7db8c8b58
@@ -14,14 +14,14 @@ inventory:
     md5: 5ba6e9c780af7015419869a94396c6e8
     time: 1475169832
   "/consulting-services/index.html":
-    md5: 0867b93235a576d59318f037056a8553
-    time: 1475169832
+    md5: 6440abb67674c06b0396aab2c105f43c
+    time: 1484002183
   "/courses/index.html":
     md5: bddc23f0485f4867e32de9013cce043b
     time: 1475169832
   "/about/index.html":
-    md5: 4f01cdfdf3718f7903040c7606b22484
-    time: 1475169832
+    md5: 921d65830cd2aff7ffd073b1adcce1f4
+    time: 1484002183
   "/thanks/index.html":
     md5: c5982fdd59795a06a21ddfb7e8f085da
     time: 1475169832
@@ -59,8 +59,8 @@ inventory:
     md5: f13bd2f572d6296490c5a7a020af29ca
     time: 1475169834
   "/about/our-customers/index.html":
-    md5: 6b31ec106cc56034e42b02541d8029d1
-    time: 1475169834
+    md5: f1cf3fa34dc7548c500ba53b50007399
+    time: 1484002183
   "/about/contact/index.html":
     md5: 73ec421fc5927e8f88417539106e0b3e
     time: 1475169834
@@ -119,11 +119,11 @@ inventory:
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: 2fabbeabb1fed685a22409801bb98658
-    time: 1484001012
+    md5: fc247e44ce28438d170b5e2cf8f6a9dc
+    time: 1484002184
   "/feed.xml":
-    md5: 42507bad21c26e595ccbc42878ae457c
-    time: 1484001012
+    md5: 5612cd35c406db1307a8822741e7a7db
+    time: 1484002184
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
