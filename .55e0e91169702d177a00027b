@@ -1,5 +1,5 @@
 ---
-time: 1484002258
+time: 1484178232
 inventory:
   "/home/index.html":
     md5: b34c395153bf8dc95921bcf7db8c8b58
@@ -8,8 +8,8 @@ inventory:
     md5: b34c395153bf8dc95921bcf7db8c8b58
     time: 1482268956
   "/online-training/index.html":
-    md5: 0e04f1c799e233a67ffa04544586a2cb
-    time: 1484001011
+    md5: 6ed9ed64dddcbe4e6c5ada0f356e5037
+    time: 1484178229
   "/instructor-led-training/index.html":
     md5: 5ba6e9c780af7015419869a94396c6e8
     time: 1475169832
@@ -119,11 +119,11 @@ inventory:
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: 0684918847a995441120ae3b030b42b9
-    time: 1484002256
+    md5: f84d8e408c00efb0977b3563a6bd5f5a
+    time: 1484178230
   "/feed.xml":
-    md5: ce2ebbae30a425c74b4d241820a8b14f
-    time: 1484002256
+    md5: 6e7bfd6fb1de1937760d493d9c3a62b6
+    time: 1484178230
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
