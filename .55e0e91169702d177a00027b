@@ -1,5 +1,5 @@
 ---
-time: 1486520177
+time: 1486602409
 inventory:
   "/home/index.html":
     md5: f74aa166b7017df81727fc1f98ec852e
@@ -11,8 +11,8 @@ inventory:
     md5: f8eabab8f7e152f0f3551091228363e7
     time: 1485238750
   "/instructor-led-training/index.html":
-    md5: b6a9ef8f1e779c09422ec29562e17283
-    time: 1486520173
+    md5: 537546bcc1a6e7038ec5eb3934861b5d
+    time: 1486602400
   "/consulting-services/index.html":
     md5: 30c9d564c50dbcf4da29cf9524fb1931
     time: 1485238750
@@ -38,8 +38,8 @@ inventory:
     md5: 84721ad72fd3f9cc47f5020c09282efc
     time: 1485238751
   "/test/index.html":
-    md5: 17e92cd048f33f09a2aecdf0fe076818
-    time: 1486520087
+    md5: d5846337862a6322072b1d5c4b6dcf2e
+    time: 1486602401
   "/home/services/index.html":
     md5: 63b2cbb7857bc02f2af3a2ee46493963
     time: 1485238751
@@ -104,8 +104,8 @@ inventory:
     md5: 21c050b2182c559501834e78275da7e8
     time: 1485238751
   "/courses/3-day-cisco-cloud-center-training/index.html":
-    md5: 133f7291b2208b6311df1c94acff4e95
-    time: 1485238751
+    md5: 2cfefef2f17c661b170599b4aff34f50
+    time: 1486602402
   "/courses/1day-mdcn9k/index.html":
     md5: 82770a1b51e65aa735d8d0e48d9b8c5a
     time: 1485238751
@@ -119,17 +119,20 @@ inventory:
     md5: 42e4c3dc17e066f682a477fbdb778e4b
     time: 1485394945
   "/courses/5-day-cisco-aci-for-network-engineers/index.html":
-    md5: a41fd31fc6ce6b3b621d64afdb9fb467
-    time: 1486520088
+    md5: 201e479744dd4a7cd65762b4b4659fba
+    time: 1486602402
+  "/courses/2-day-driving-your-datacenter-with-python-and-aci/index.html":
+    md5: 175372a3cdc67f062275bef02158dbf3
+    time: 1486602402
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: 086ebcf6ff60d154375a28f625eb9ee9
-    time: 1486520175
+    md5: cd59060c602cc8ea8f6fdcfe7fc642fa
+    time: 1486602402
   "/feed.xml":
-    md5: 8a85d430115fd8544153074c7dc762d1
-    time: 1486520175
+    md5: 6d5b0eef4a0d0753f45efe2c80a5dd7b
+    time: 1486602402
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
