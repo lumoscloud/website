@@ -1,5 +1,5 @@
 ---
-time: 1491206704
+time: 1491553422
 inventory:
   "/home/index.html":
     md5: 1fda98e864819988842ec9692583a669
@@ -122,8 +122,8 @@ inventory:
     md5: 95b30ce0dca782278c5cfda35b931e71
     time: 1491206703
   "/courses/2-day-driving-your-datacenter-with-python-and-aci/index.html":
-    md5: 1c667f7bd506d7a54751393e498adbdc
-    time: 1490813826
+    md5: 55828a0e05acfdcd244ea3f9c3d6ebc1
+    time: 1491553421
   "/CNAME":
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
@@ -131,8 +131,8 @@ inventory:
     md5: cd59060c602cc8ea8f6fdcfe7fc642fa
     time: 1486602402
   "/feed.xml":
-    md5: 65ea93561e3b2b06e6da1376ed3b9d8c
-    time: 1491206703
+    md5: 2051b3eebe44eee53a002407f1e40c38
+    time: 1491553421
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
