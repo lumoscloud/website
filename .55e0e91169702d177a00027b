@@ -1,12 +1,12 @@
 ---
-time: 1495428773
+time: 1506120450
 inventory:
   "/home/index.html":
-    md5: 1fda98e864819988842ec9692583a669
-    time: 1490813825
+    md5: 0c03ef2fa2b83cad829486b93c061366
+    time: 1506120446
   "/index.html":
-    md5: 1fda98e864819988842ec9692583a669
-    time: 1490813825
+    md5: 0c03ef2fa2b83cad829486b93c061366
+    time: 1506120446
   "/online-knowledge/index.html":
     md5: 40eb5363ce6b3d99ea9cb61ac4f8ac7e
     time: 1490813825
@@ -14,14 +14,14 @@ inventory:
     md5: 0280230909d5c38e94d08e97d8cdd796
     time: 1490813825
   "/consulting-services/index.html":
-    md5: 2fd37950219ee7504c91aa534d80107f
-    time: 1490813825
+    md5: 55bd5acb493ff661056b7a92110fd4c0
+    time: 1506120446
   "/courses/index.html":
     md5: 1f737218e18829486d125542dff69fc7
     time: 1490813825
   "/about/index.html":
-    md5: abd82af74674e0e2d4ac872c288ab558
-    time: 1490813825
+    md5: 327acf0ada2fd256da0aab64b2146681
+    time: 1506120446
   "/thanks/index.html":
     md5: 6df5ca693d627bab5f7d6e7f99be6fd8
     time: 1490813825
@@ -37,9 +37,6 @@ inventory:
   "/emea/index.html":
     md5: 0ac8d0ece502cf9aabdf72d9c5f0857f
     time: 1490813825
-  "/test/index.html":
-    md5: 53fc9071d41ab933b221a3be0d335695
-    time: 1490813825
   "/home/services/index.html":
     md5: c442a0aed57f440aedfe64bc44c8adb2
     time: 1490813825
@@ -47,8 +44,8 @@ inventory:
     md5: 968607a412e3b3c45762ca5536a7a49b
     time: 1490813825
   "/home/call-to-action/index.html":
-    md5: e0da802fab2aedf32ef801c97dd91780
-    time: 1490813825
+    md5: 899a868c77fc3378ccd34cd26ebfa511
+    time: 1506120446
   "/home/emea/index.html":
     md5: 2d410b20dfa7977cb2e6d7f4416c0560
     time: 1490813825
@@ -128,11 +125,11 @@ inventory:
     md5: b59e8889a0cee55a8a8008c0b3eb83c9
     time: 1469223863
   "/sitemap.xml":
-    md5: cd59060c602cc8ea8f6fdcfe7fc642fa
-    time: 1486602402
+    md5: 5ecc2216a23ed42fa4d5ac89e15bc094
+    time: 1506120447
   "/feed.xml":
-    md5: 3349cdf7137ab5beff3feac654e53ad4
-    time: 1495428772
+    md5: 65f98eae4526fdb17c12d4053d1474f1
+    time: 1506120447
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
