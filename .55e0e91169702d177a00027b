@@ -1,5 +1,5 @@
 ---
-time: 1509572039
+time: 1510152569
 inventory:
   "/home/index.html":
     md5: 0c03ef2fa2b83cad829486b93c061366
@@ -11,8 +11,8 @@ inventory:
     md5: 40eb5363ce6b3d99ea9cb61ac4f8ac7e
     time: 1509494069
   "/instructor-led-training/index.html":
-    md5: 0280230909d5c38e94d08e97d8cdd796
-    time: 1509494069
+    md5: b0e72e87c4d29110e2b6913b46cfd4ad
+    time: 1510152565
   "/consulting-services/index.html":
     md5: 55bd5acb493ff661056b7a92110fd4c0
     time: 1509494069
@@ -53,8 +53,8 @@ inventory:
     md5: 70eec5ce3f0164dfeb8d6a66d059a6c8
     time: 1509494070
   "/home/services/instructor-lead-training/index.html":
-    md5: 31762133f26e2f66449bc05731996330
-    time: 1509494070
+    md5: 01e661ba1baffcf8830de766b3700166
+    time: 1510152565
   "/home/services/consulting-services/index.html":
     md5: 4253662404bc91f2f63de7aa12c34a12
     time: 1509494070
@@ -122,8 +122,8 @@ inventory:
     md5: 84c90aa3072edfee55c0e73a41de7e4a
     time: 1509494072
   "/courses/4-day-cisco-aci-for-network-engineers/index.html":
-    md5: 318cd3c7a583dce7be80476930863c23
-    time: 1509494072
+    md5: 6b816493f1f91d5128f039e2fce6485b
+    time: 1510152565
   "/CNAME":
     md5: 737d454df2f0a17fb21b035ad92c2f99
     time: 1509494078
@@ -131,8 +131,8 @@ inventory:
     md5: f6073c067ea7a47c3c712621cb17ee22
     time: 1509552724
   "/feed.xml":
-    md5: f964e0149fb615edb2a7d3aeffca97bd
-    time: 1509572039
+    md5: 78a86ab1178544d30bc96739a27f172f
+    time: 1510152566
   "/assets/Lumos_Earth_Hi_Res-e1438829835570.png":
     md5: 82dbfde6a5bad25be3f530e6102de9e6
     time: 1469223864
